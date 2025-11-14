@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nuge 🚚
 
-## Getting Started
+**Your real-time guide to mobile vendors & local events.**
 
-First, run the development server:
+Nuge is a location-based platform that helps people discover the vibrant, temporary life of their community. Find **mobile vendors** (like food trucks and coffee carts) and discover **local happenings** (like farmers' markets, flea markets, carnivals, pop-up shows, and fairs).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+We make it easy for vendors and event organizers to share their real-time location and schedule, and for customers and attendees to find them instantly.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🎯 The Problem We're Solving
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Finding temporary, local points of interest is hard. The information is fragmented, and opportunities are easily missed.
 
-## Learn More
+- **For Customers & Attendees:** You want to find that new food truck, visit the weekend flea market, or take your family to the local carnival. But where do you look? Information is scattered across social media, buried in Facebook groups, or posted on physical community boards. It's hard to know what's happening _right now_, right around the corner.
 
-To learn more about Next.js, take a look at the following resources:
+- **For Vendors & Organizers:** Mobile vendors struggle to announce their daily location efficiently. Event organizers find it hard to promote their market, fair, or show to the immediate local community. They all waste time managing their presence across multiple, ineffective platforms.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### ✅ Our Solution
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Nuge solves this by providing a **single, dynamic, real-time map.**
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Vendors and organizers post their location, hours, and details in one place. Customers and attendees open the app and instantly see what's happening near them, from a single food truck to a full-blown community fair.
